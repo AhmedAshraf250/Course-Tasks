@@ -1,0 +1,19 @@
+ul {
+    background-color: rgb(223, 30, 30);
+    /* list-style-type: none; */
+    /* margin: 0; */
+    padding: 0;
+    position: relative;
+}
+
+li {
+    /* padding: 0;
+    margin: 0; */
+    position: absolute;
+    width: 100px;
+    background-color: aqua;
+    top: 10px;
+    display: inline-block;
+
+
+}
