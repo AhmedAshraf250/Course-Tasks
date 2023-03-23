@@ -1,2 +1,2 @@
-# Coures-Tasks
+# Course-Tasks
 For  the Current Course "Creativo"
